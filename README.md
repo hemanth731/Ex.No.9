@@ -4,8 +4,6 @@
 ## Name - Janda Hemanth
 ## Reg No - 212223030015
 
-## Reg. No.:
-
 ## Aim
 
 To explore prompting techniques for video generation using an AI video-generation tool by creating a detailed prompt and generating a realistic video.
